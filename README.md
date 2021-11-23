@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Aheebwa</h1>
-<h3 align="center">A passionate frontend developer from Uganda <a href="" target="_blank" rel="noreferrer"> <img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1fa-1f1ec.png" alt="bash" width="40" height="40"/> </a> 💻 and a Smackist🎓</h3>
+<h3 align="center">A passionate developer from Uganda <a href="https://www.gou.go.ug/" target="_blank" rel="noreferrer"> <img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1fa-1f1ec.png" alt="bash" width="40" height="40"/> </a> 💻 and a Smackist🎓</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
